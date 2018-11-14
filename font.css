@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: red !important;
+}
+
+h1+p {
+    color: brown !important;
+}
+
+h3 {
+   color: white !important;
+}
+
+h3+p {
+    color: yellow !important;
+    font-style: italic !important;
+}
+
+ol{
+    color: goldenrod !important;
+}

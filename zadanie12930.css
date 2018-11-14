@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+
+}
+
+h1 {
+    background-color:burlywood;
+}
+
+h1+p {
+    background-color: paleturquoise;
+}
+
+h3 {
+    background-color: sandybrown;
+}
+
+h3+p {
+    background-color: yellowgreen;
+}
+
+ol{
+    background-color: lightgray;
+}
